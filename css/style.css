@@ -303,7 +303,7 @@ h6 {
 
 .menu__link:hover {
   padding: 0 0 58px 0;
-  background: url("../../img/header/menu/icons/Icon_Polygon.jpg") center no-repeat;
+  background: url("../img/header/menu/icons/Icon_Polygon.jpg") center no-repeat;
 }
 
 @media (max-width: 1024px) {
@@ -515,7 +515,7 @@ h6 {
   top: -11px;
   width: 24px;
   height: 20px;
-  background: url("../../img/main/icons/icon_left_Polygon.svg") left no-repeat;
+  background: url("../img/main/icons/icon_left_Polygon.svg") left no-repeat;
 }
 
 @media (max-width: 910px) {
@@ -747,12 +747,6 @@ h6 {
   bottom: -498px;
   margin: 0 -40px 0 0;
   width: 60%;
-  /*@media (max-width: 767px){
-				margin: 0 -20px 0 0;
-				bottom: -440px;
-				width: 500px;
-				//font-size: 420px;
-			}*/
 }
 
 @media (max-width: 1820px) {
